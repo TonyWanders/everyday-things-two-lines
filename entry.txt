@@ -1,0 +1,2 @@
+A queue is a line of people waiting their turn, like a caterpillar that crawls forward one small wiggle each time the shop lets the person at its head go in.
+The caterpillar fits because a queue really does move in small steps from the front, one person at a time, but it leaves out that the people can chat, get bored, or walk away, while a caterpillar never chooses where it goes.
